@@ -1,0 +1,36 @@
+body
+{
+  text-align:center;
+    background:aqua(E1BEE7 0, #90CAF9 100%);
+      background-repeat:no-repeat;
+}
+
+img
+{
+  border-radius:50px;
+  width:500px;
+}
+
+
+h1{
+  text-shadow:2px 2px #F8BBDO;
+  font-size:20px;
+}
+
+
+p{
+  font-size:20px;
+  color:hotpink;
+  
+  
+  
+}
+
+.menu
+list-style:  none;
+font-family:  cursive;
+float:right;
+top: 10px;
+left: 30px;
+cursor:  pointer;
+color: black 
